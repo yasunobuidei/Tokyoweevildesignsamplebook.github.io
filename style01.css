@@ -193,6 +193,21 @@ p4{display: inline-block;
          flex-grow: 1;
          border: 0px solid blue;
            }
+.show {
+         display: flex;
+         flex-direction: column;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+#ss{width: 24vw;
+    display: block;
+    border: 1px gray;
+    margin: auto;
+    margin-bottom:1vw;
+    margin-left:0.8vw;
+    margin-right:0vw;
+    margin-top: 4vw;
+     }
 
 #left1{width: 49.2vw;
     display: block;
@@ -255,6 +270,21 @@ p4{display: inline-block;
          flex-grow: 1;
          border: 0px solid blue;
            }
+     .show {
+         display: flex;
+         flex-direction: column;
+         flex-grow: 1;
+         border: 0px solid blue;
+           }
+#ss{width: 96.13vw;
+    display: block;
+    border: 1px gray;
+    margin: auto;
+    margin-bottom:5vw;
+    margin-left:1.93vw;
+    margin-right:0vw;
+    margin-top: 10vw;
+     }
  p{display: none; 
    font-size:11pt;
    width: 48.8vw;
